@@ -15,6 +15,7 @@ group :assets do
   gem 'coffee-rails', '~> 3.2.1'
   gem 'rspec-rails', '2.9.0'
   gem 'capybara', '1.1.2'
+  gem 'test-unit' # https://github.com/rspec/rspec-rails/issues/1273
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   # gem 'therubyracer', :platforms => :ruby
